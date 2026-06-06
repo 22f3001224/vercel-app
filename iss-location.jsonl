@@ -370,3 +370,4 @@
 {"timestamp": 1780503673, "message": "success", "iss_position": {"latitude": "-26.2892", "longitude": "72.4211"}}
 {"timestamp": 1780584066, "message": "success", "iss_position": {"latitude": "6.2816", "longitude": "-106.1134"}}
 {"timestamp": 1780669811, "iss_position": {"longitude": "44.5111", "latitude": "24.5413"}, "message": "success"}
+{"timestamp": 1780751656, "iss_position": {"longitude": "-76.9779", "latitude": "27.1317"}, "message": "success"}
